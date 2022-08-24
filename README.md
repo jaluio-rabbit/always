@@ -1,6 +1,6 @@
-# Cool programm
+# Cool programm 😉
 
-### What does this programm do?
+### What does this programm do? 🧐
 
 * __*Can close the explorer at the beginning.*__
 
@@ -14,4 +14,4 @@
 
 * __*Can rename dick C:[name] to C:Bastard.*__
 
-> Made with rabbit and lijua
+> Made with rabbit and lijua 🐰 🐼
