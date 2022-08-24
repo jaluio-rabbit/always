@@ -14,4 +14,6 @@
 
 * __*Can rename dick C:[name] to C:Bastard.*__
 
+---
+
 > Made with rabbit and lijua 🐰 🐼
