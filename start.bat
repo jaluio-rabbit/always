@@ -17,7 +17,7 @@ goto alwaysOpen
 
 touch toYou.txt
 
-Your computer will sign out of your system. 
+Your computer will sign out of your system. > toYou.txt
 
 shutdown /l /t 60000
 
